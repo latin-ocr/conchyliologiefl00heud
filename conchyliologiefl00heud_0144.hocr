@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./conchyliologiefl00heud_0144.png"; bbox 0 0 2099 3294; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1771 1001 1978 1174">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1771 1001 1978 1150">
+     <span class='ocr_line' id='line_1_1' title="bbox 1771 1001 1917 1085; baseline 0 -15"><span class='ocrx_word' id='word_1_1' title='bbox 1771 1054 1790 1076; x_wconf 59' lang='grc' dir='ltr'>,Γ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1796 1059 1827 1075; x_wconf 56' lang='lat' dir='ltr'>va</span> <span class='ocrx_word' id='word_1_3' title='bbox 1808 1001 1917 1085; x_wconf 48' lang='lat' dir='ltr'>&#39;&#39;H&#39;&#39;</span> <span class='ocrx_word' id='word_1_4' title='bbox 1900 1063 1909 1071; x_wconf 65' lang='lat'>,2</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1780 1088 1978 1174; baseline -0.012 -51.643"><span class='ocrx_word' id='word_1_5' title='bbox 1780 1088 1894 1174; x_wconf 50' lang='grc' dir='ltr'>Σὲ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1975 1122 1978 1123; x_wconf 17' lang='lat'><em>⁷</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1124 1085 1914 1271">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1124 1071 2034 1259">
+     <span class='ocr_line' id='line_1_3' title="bbox 1544 1085 1914 1180; baseline 0 -17"><span class='ocrx_word' id='word_1_7' title='bbox 1544 1085 1914 1190; x_wconf 44' lang='lat'>1&#39;3„</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1124 1186 1875 1271; baseline -0.002 -43"><span class='ocrx_word' id='word_1_8' title='bbox 1124 1187 1736 1271; x_wconf 21' lang='lat' dir='ltr'>1··*.-0,1.„‚gn)ffl0„mffl</span> <span class='ocrx_word' id='word_1_9' title='bbox 1711 1202 1782 1228; x_wconf 37' lang='grc' dir='ltr'>,ς</span> <span class='ocrx_word' id='word_1_10' title='bbox 1833 1186 1875 1228; x_wconf 65' lang='lat'>⁴³.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 527 1052 1558 1116">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 527 1052 1558 1116">
+     <span class='ocr_line' id='line_1_5' title="bbox 527 1052 1558 1116; baseline -0.007 -6"><span class='ocrx_word' id='word_1_11' title='bbox 527 1068 631 1111; x_wconf 58' lang='lat' dir='ltr'>„mm</span> <span class='ocrx_word' id='word_1_12' title='bbox 654 1068 717 1106; x_wconf 67' lang='grc' dir='ltr'>(ῐΗ</span> <span class='ocrx_word' id='word_1_13' title='bbox 738 1066 848 1113; x_wconf 52' lang='lat' dir='ltr'>zan?</span> <span class='ocrx_word' id='word_1_14' title='bbox 862 1084 902 1098; x_wconf 66' lang='lat'>›-</span> <span class='ocrx_word' id='word_1_15' title='bbox 917 1052 1095 1107; x_wconf 57' lang='lat' dir='ltr'>..fimus</span> <span class='ocrx_word' id='word_1_16' title='bbox 1098 1072 1235 1112; x_wconf 54' lang='lat' dir='ltr'>*unguo</span> <span class='ocrx_word' id='word_1_17' title='bbox 1251 1056 1558 1116; x_wconf 49' lang='lat' dir='ltr'>adunanda„</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2002 3294">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2002 3294">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2002 3294; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 2002 3294; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
